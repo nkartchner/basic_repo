@@ -1,3 +1,8 @@
 secret.txt
 secrets/
 /hidden.txt
+*.txt
+secret.js
+*.log
+*log
+log*
